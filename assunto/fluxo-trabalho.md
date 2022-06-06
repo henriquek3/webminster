@@ -94,5 +94,7 @@ resumos ou recensões, ou seja, padronizar, uniformizar.
 
 
 18. Verificar o documento [codigo-commit](tarefa/andamento/codigo-commit.md) para entender melhor o que
-    significa o atribuito **STATUS** dentro de cada tarefa e como usa-lô.
+
+
+19. Verificar o documento [mensagem-commit](codigo/vcs/mensagem-commit.md) para entender o layout padrão das mensagens de commits.
 
